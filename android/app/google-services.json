@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33751919166",
+    "project_id": "parcial4flutterventurabonilla",
+    "storage_bucket": "parcial4flutterventurabonilla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33751919166:android:07cc293c5e3883e08bff6f",
+        "android_client_info": {
+          "package_name": "com.example.flutterparcial4venturabonilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33751919166-vs9k284sr09757vj3sf2g7ajv82jh6l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplph6wmcMLH_c4KfcWI2n2vPnCG2SUEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33751919166-vs9k284sr09757vj3sf2g7ajv82jh6l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
